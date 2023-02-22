@@ -1,0 +1,986 @@
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 14:37:43'
+}
+{
+  message: 'route > login',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 14:37:45'
+}
+{
+  message: 'controller > doLogin',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 14:37:45'
+}
+{
+  message: 'route > login',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 14:37:55'
+}
+{
+  message: 'controller > doLogin',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 14:37:55'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 14:38:05'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 14:38:10'
+}
+{
+  message: 'route > login',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 14:39:21'
+}
+{
+  message: 'controller > doLogin',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 14:39:21'
+}
+{
+  level: 'error',
+  timestamp: 'Feb-22-2023 14:39:21',
+  message: 'user is not defined',
+  stack: 'ReferenceError: user is not defined\n' +
+    '    at doLogin (/home/yatesh/NodeJS/BoilerPlate/controllers/user.js:16:5)\n' +
+    '    at /home/yatesh/NodeJS/BoilerPlate/routes/user.js:21:31\n' +
+    '    at Layer.handle [as handle_request] (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/route.js:144:13)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 14:46:43'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 14:47:32'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 14:47:48'
+}
+{
+  message: 'route > login',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 14:48:07'
+}
+{
+  message: 'controller > doLogin',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 14:48:07'
+}
+{
+  level: 'error',
+  timestamp: 'Feb-22-2023 14:48:07',
+  message: 'user is not defined',
+  stack: 'ReferenceError: user is not defined\n' +
+    '    at doLogin (/home/yatesh/NodeJS/BoilerPlate/controllers/user.js:16:5)\n' +
+    '    at /home/yatesh/NodeJS/BoilerPlate/routes/user.js:21:31\n' +
+    '    at Layer.handle [as handle_request] (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/route.js:144:13)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 14:48:43'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 14:48:52'
+}
+{
+  message: 'route > login',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 14:48:57'
+}
+{
+  message: 'controller > doLogin',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 14:48:57'
+}
+{
+  level: 'error',
+  timestamp: 'Feb-22-2023 14:48:57',
+  message: 'user is not defined',
+  stack: 'ReferenceError: user is not defined\n' +
+    '    at doLogin (/home/yatesh/NodeJS/BoilerPlate/controllers/user.js:16:5)\n' +
+    '    at /home/yatesh/NodeJS/BoilerPlate/routes/user.js:21:31\n' +
+    '    at Layer.handle [as handle_request] (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/route.js:144:13)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 14:50:31'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 14:50:40'
+}
+{
+  message: 'route > login',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 14:50:42'
+}
+{
+  message: 'controller > doLogin',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 14:50:42'
+}
+{
+  level: 'error',
+  timestamp: 'Feb-22-2023 14:50:42',
+  message: 'user is not defined',
+  stack: 'ReferenceError: user is not defined\n' +
+    '    at doLogin (/home/yatesh/NodeJS/BoilerPlate/controllers/user.js:16:5)\n' +
+    '    at /home/yatesh/NodeJS/BoilerPlate/routes/user.js:21:31\n' +
+    '    at Layer.handle [as handle_request] (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/route.js:144:13)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 14:51:13'
+}
+{
+  message: 'route > login',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 14:51:21'
+}
+{
+  message: 'controller > doLogin',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 14:51:21'
+}
+{
+  level: 'error',
+  timestamp: 'Feb-22-2023 14:51:21',
+  message: 'user is not defined',
+  stack: 'ReferenceError: user is not defined\n' +
+    '    at doLogin (/home/yatesh/NodeJS/BoilerPlate/controllers/user.js:16:5)\n' +
+    '    at /home/yatesh/NodeJS/BoilerPlate/routes/user.js:21:31\n' +
+    '    at Layer.handle [as handle_request] (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/route.js:144:13)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'
+}
+{
+  message: 'route > login',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 14:51:29'
+}
+{
+  message: 'controller > doLogin',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 14:51:29'
+}
+{
+  level: 'error',
+  timestamp: 'Feb-22-2023 14:51:29',
+  message: 'user is not defined',
+  stack: 'ReferenceError: user is not defined\n' +
+    '    at doLogin (/home/yatesh/NodeJS/BoilerPlate/controllers/user.js:16:5)\n' +
+    '    at /home/yatesh/NodeJS/BoilerPlate/routes/user.js:21:31\n' +
+    '    at Layer.handle [as handle_request] (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/route.js:144:13)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 14:51:44'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 14:51:59'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 14:52:04'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 14:52:15'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 14:52:22'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 14:52:24'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 14:52:34'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 14:53:40'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 14:53:58'
+}
+{
+  message: 'route > login',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 14:54:12'
+}
+{
+  message: 'controller > doLogin',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 14:54:12'
+}
+{
+  level: 'error',
+  timestamp: 'Feb-22-2023 14:54:12',
+  message: 'user is not defined',
+  stack: 'ReferenceError: user is not defined\n' +
+    '    at doLogin (/home/yatesh/NodeJS/BoilerPlate/controllers/user.js:16:5)\n' +
+    '    at /home/yatesh/NodeJS/BoilerPlate/routes/user.js:21:31\n' +
+    '    at Layer.handle [as handle_request] (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/route.js:144:13)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 14:56:15'
+}
+{
+  message: 'route > login',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 14:56:34'
+}
+{
+  message: 'controller > doLogin',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 14:56:34'
+}
+{
+  level: 'error',
+  timestamp: 'Feb-22-2023 14:56:34',
+  message: 'user is not defined',
+  stack: 'ReferenceError: user is not defined\n' +
+    '    at doLogin (/home/yatesh/NodeJS/BoilerPlate/controllers/user.js:16:5)\n' +
+    '    at /home/yatesh/NodeJS/BoilerPlate/routes/user.js:21:31\n' +
+    '    at Layer.handle [as handle_request] (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/route.js:144:13)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'
+}
+{
+  message: 'route > login',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 14:57:40'
+}
+{
+  message: 'controller > doLogin',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 14:57:40'
+}
+{
+  level: 'error',
+  timestamp: 'Feb-22-2023 14:57:40',
+  message: 'user is not defined',
+  stack: 'ReferenceError: user is not defined\n' +
+    '    at doLogin (/home/yatesh/NodeJS/BoilerPlate/controllers/user.js:16:5)\n' +
+    '    at /home/yatesh/NodeJS/BoilerPlate/routes/user.js:21:31\n' +
+    '    at Layer.handle [as handle_request] (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/route.js:144:13)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'
+}
+{
+  message: 'route > login',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 14:57:47'
+}
+{
+  message: 'controller > doLogin',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 14:57:47'
+}
+{
+  level: 'error',
+  timestamp: 'Feb-22-2023 14:57:47',
+  message: 'user is not defined',
+  stack: 'ReferenceError: user is not defined\n' +
+    '    at doLogin (/home/yatesh/NodeJS/BoilerPlate/controllers/user.js:16:5)\n' +
+    '    at /home/yatesh/NodeJS/BoilerPlate/routes/user.js:21:31\n' +
+    '    at Layer.handle [as handle_request] (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/route.js:144:13)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 14:59:36'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 15:25:01'
+}
+{
+  message: 'route > login',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 15:25:03'
+}
+{
+  message: 'controller > doLogin',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 15:25:03'
+}
+{
+  level: 'error',
+  timestamp: 'Feb-22-2023 15:25:03',
+  message: 'user is not defined',
+  stack: 'ReferenceError: user is not defined\n' +
+    '    at doLogin (/home/yatesh/NodeJS/BoilerPlate/controllers/user.js:16:5)\n' +
+    '    at /home/yatesh/NodeJS/BoilerPlate/routes/user.js:21:31\n' +
+    '    at Layer.handle [as handle_request] (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/route.js:144:13)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'
+}
+{
+  message: 'route > login',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 15:25:21'
+}
+{
+  message: 'controller > doLogin',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 15:25:21'
+}
+{
+  level: 'error',
+  timestamp: 'Feb-22-2023 15:25:21',
+  message: 'user is not defined',
+  stack: 'ReferenceError: user is not defined\n' +
+    '    at doLogin (/home/yatesh/NodeJS/BoilerPlate/controllers/user.js:16:5)\n' +
+    '    at /home/yatesh/NodeJS/BoilerPlate/routes/user.js:21:31\n' +
+    '    at Layer.handle [as handle_request] (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/route.js:144:13)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 15:28:25'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 15:37:01'
+}
+{
+  message: 'route > login',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 15:37:05'
+}
+{
+  message: 'controller > doLogin',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 15:37:05'
+}
+{
+  level: 'error',
+  timestamp: 'Feb-22-2023 15:37:05',
+  message: 'user is not defined',
+  stack: 'ReferenceError: user is not defined\n' +
+    '    at doLogin (/home/yatesh/NodeJS/BoilerPlate/controllers/user.js:16:5)\n' +
+    '    at /home/yatesh/NodeJS/BoilerPlate/routes/user.js:21:31\n' +
+    '    at Layer.handle [as handle_request] (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/route.js:144:13)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 15:37:14'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 15:42:03'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 15:42:36'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 15:44:09'
+}
+{
+  message: 'route > login',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 15:44:17'
+}
+{
+  message: 'controller > doLogin',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 15:44:17'
+}
+{
+  level: 'error',
+  timestamp: 'Feb-22-2023 15:44:17',
+  message: 'user is not defined',
+  stack: 'ReferenceError: user is not defined\n' +
+    '    at doLogin (/home/yatesh/NodeJS/BoilerPlate/controllers/user.js:16:5)\n' +
+    '    at /home/yatesh/NodeJS/BoilerPlate/routes/user.js:21:31\n' +
+    '    at Layer.handle [as handle_request] (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/route.js:144:13)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'
+}
+{
+  message: 'route > login',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 15:44:55'
+}
+{
+  message: 'controller > doLogin',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 15:44:55'
+}
+{
+  level: 'error',
+  timestamp: 'Feb-22-2023 15:44:55',
+  message: 'user is not defined',
+  stack: 'ReferenceError: user is not defined\n' +
+    '    at doLogin (/home/yatesh/NodeJS/BoilerPlate/controllers/user.js:16:5)\n' +
+    '    at /home/yatesh/NodeJS/BoilerPlate/routes/user.js:21:31\n' +
+    '    at Layer.handle [as handle_request] (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/route.js:144:13)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 15:45:09'
+}
+{
+  message: 'route > login',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 15:45:13'
+}
+{
+  message: 'controller > doLogin',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 15:45:13'
+}
+{
+  level: 'error',
+  timestamp: 'Feb-22-2023 15:45:13',
+  message: 'user is not defined',
+  stack: 'ReferenceError: user is not defined\n' +
+    '    at doLogin (/home/yatesh/NodeJS/BoilerPlate/controllers/user.js:16:5)\n' +
+    '    at /home/yatesh/NodeJS/BoilerPlate/routes/user.js:21:31\n' +
+    '    at Layer.handle [as handle_request] (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/route.js:144:13)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 15:46:15'
+}
+{
+  message: 'route > login',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 15:46:18'
+}
+{
+  message: 'controller > doLogin',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 15:46:18'
+}
+{
+  level: 'error',
+  timestamp: 'Feb-22-2023 15:46:18',
+  message: 'user is not defined',
+  stack: 'ReferenceError: user is not defined\n' +
+    '    at doLogin (/home/yatesh/NodeJS/BoilerPlate/controllers/user.js:16:5)\n' +
+    '    at /home/yatesh/NodeJS/BoilerPlate/routes/user.js:21:31\n' +
+    '    at Layer.handle [as handle_request] (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/route.js:144:13)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 15:46:25'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 15:46:27'
+}
+{
+  message: 'route > login',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 15:46:30'
+}
+{
+  message: 'controller > doLogin',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 15:46:30'
+}
+{
+  level: 'error',
+  timestamp: 'Feb-22-2023 15:46:30',
+  message: 'user is not defined',
+  stack: 'ReferenceError: user is not defined\n' +
+    '    at doLogin (/home/yatesh/NodeJS/BoilerPlate/controllers/user.js:16:5)\n' +
+    '    at /home/yatesh/NodeJS/BoilerPlate/routes/user.js:21:31\n' +
+    '    at Layer.handle [as handle_request] (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/route.js:144:13)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'
+}
+{
+  message: 'route > login',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 15:46:54'
+}
+{
+  message: 'controller > doLogin',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 15:46:54'
+}
+{
+  level: 'error',
+  timestamp: 'Feb-22-2023 15:46:54',
+  message: 'user is not defined',
+  stack: 'ReferenceError: user is not defined\n' +
+    '    at doLogin (/home/yatesh/NodeJS/BoilerPlate/controllers/user.js:16:5)\n' +
+    '    at /home/yatesh/NodeJS/BoilerPlate/routes/user.js:21:31\n' +
+    '    at Layer.handle [as handle_request] (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/route.js:144:13)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 15:46:59'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 15:49:21'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 15:52:37'
+}
+{
+  message: 'route > login',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 15:52:42'
+}
+{
+  message: 'controller > doLogin',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 15:52:42'
+}
+{
+  level: 'error',
+  timestamp: 'Feb-22-2023 15:52:42',
+  message: 'user is not defined',
+  stack: 'ReferenceError: user is not defined\n' +
+    '    at doLogin (/home/yatesh/NodeJS/BoilerPlate/controllers/user.js:16:5)\n' +
+    '    at /home/yatesh/NodeJS/BoilerPlate/routes/user.js:21:31\n' +
+    '    at Layer.handle [as handle_request] (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/route.js:144:13)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 15:53:08'
+}
+{
+  message: 'route > login',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 15:53:13'
+}
+{
+  message: 'controller > doLogin',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 15:53:13'
+}
+{
+  level: 'error',
+  timestamp: 'Feb-22-2023 15:53:13',
+  message: 'user is not defined',
+  stack: 'ReferenceError: user is not defined\n' +
+    '    at doLogin (/home/yatesh/NodeJS/BoilerPlate/controllers/user.js:16:5)\n' +
+    '    at /home/yatesh/NodeJS/BoilerPlate/routes/user.js:21:31\n' +
+    '    at Layer.handle [as handle_request] (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/route.js:144:13)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'
+}
+{
+  message: 'route > login',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 15:53:32'
+}
+{
+  message: 'controller > doLogin',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 15:53:32'
+}
+{
+  level: 'error',
+  timestamp: 'Feb-22-2023 15:53:32',
+  message: 'user is not defined',
+  stack: 'ReferenceError: user is not defined\n' +
+    '    at doLogin (/home/yatesh/NodeJS/BoilerPlate/controllers/user.js:16:5)\n' +
+    '    at /home/yatesh/NodeJS/BoilerPlate/routes/user.js:21:31\n' +
+    '    at Layer.handle [as handle_request] (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/route.js:144:13)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 15:53:42'
+}
+{
+  message: 'route > login',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 15:53:44'
+}
+{
+  message: 'controller > doLogin',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 15:53:44'
+}
+{
+  level: 'error',
+  timestamp: 'Feb-22-2023 15:53:44',
+  message: 'user is not defined',
+  stack: 'ReferenceError: user is not defined\n' +
+    '    at doLogin (/home/yatesh/NodeJS/BoilerPlate/controllers/user.js:16:5)\n' +
+    '    at /home/yatesh/NodeJS/BoilerPlate/routes/user.js:21:31\n' +
+    '    at Layer.handle [as handle_request] (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/route.js:144:13)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 15:55:17'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 15:55:29'
+}
+{
+  message: 'route > login',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 15:55:33'
+}
+{
+  message: 'controller > doLogin',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 15:55:33'
+}
+{
+  level: 'error',
+  timestamp: 'Feb-22-2023 15:55:33',
+  message: 'user is not defined',
+  stack: 'ReferenceError: user is not defined\n' +
+    '    at doLogin (/home/yatesh/NodeJS/BoilerPlate/controllers/user.js:16:5)\n' +
+    '    at /home/yatesh/NodeJS/BoilerPlate/routes/user.js:21:31\n' +
+    '    at Layer.handle [as handle_request] (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/route.js:144:13)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 15:56:08'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 15:56:21'
+}
+{
+  message: 'route > login',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 15:56:25'
+}
+{
+  message: 'controller > doLogin',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 15:56:25'
+}
+{
+  level: 'error',
+  timestamp: 'Feb-22-2023 15:56:25',
+  message: 'user is not defined',
+  stack: 'ReferenceError: user is not defined\n' +
+    '    at doLogin (/home/yatesh/NodeJS/BoilerPlate/controllers/user.js:16:5)\n' +
+    '    at /home/yatesh/NodeJS/BoilerPlate/routes/user.js:21:31\n' +
+    '    at Layer.handle [as handle_request] (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/route.js:144:13)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 15:57:10'
+}
+{
+  message: 'route > login',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 15:57:13'
+}
+{
+  message: 'controller > doLogin',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 15:57:13'
+}
+{
+  level: 'error',
+  timestamp: 'Feb-22-2023 15:57:13',
+  message: 'user is not defined',
+  stack: 'ReferenceError: user is not defined\n' +
+    '    at doLogin (/home/yatesh/NodeJS/BoilerPlate/controllers/user.js:16:5)\n' +
+    '    at /home/yatesh/NodeJS/BoilerPlate/routes/user.js:21:31\n' +
+    '    at Layer.handle [as handle_request] (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/route.js:144:13)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 15:57:16'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 15:57:20'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 16:02:19'
+}
+{
+  message: 'route > login',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 16:04:53'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 16:05:04'
+}
+{
+  message: 'route > login',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 16:05:14'
+}
+{
+  message: 'controller > doLogin',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 16:05:14'
+}
+{
+  level: 'error',
+  timestamp: 'Feb-22-2023 16:05:14',
+  message: 'user is not defined',
+  stack: 'ReferenceError: user is not defined\n' +
+    '    at doLogin (/home/yatesh/NodeJS/BoilerPlate/controllers/user.js:16:5)\n' +
+    '    at /home/yatesh/NodeJS/BoilerPlate/routes/user.js:21:31\n' +
+    '    at Layer.handle [as handle_request] (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/route.js:144:13)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 16:14:50'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 16:15:12'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 16:17:56'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 16:18:13'
+}
+{
+  message: 'route > login',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 16:18:22'
+}
+{
+  message: 'controller > doLogin',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 16:18:22'
+}
+{
+  level: 'error',
+  timestamp: 'Feb-22-2023 16:18:22',
+  message: 'user is not defined',
+  stack: 'ReferenceError: user is not defined\n' +
+    '    at doLogin (/home/yatesh/NodeJS/BoilerPlate/controllers/user.js:16:5)\n' +
+    '    at /home/yatesh/NodeJS/BoilerPlate/routes/user.js:21:31\n' +
+    '    at Layer.handle [as handle_request] (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/route.js:144:13)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'
+}
+{
+  message: 'route > login',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 16:19:07'
+}
+{
+  message: 'controller > doLogin',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 16:19:07'
+}
+{
+  level: 'error',
+  timestamp: 'Feb-22-2023 16:19:07',
+  message: 'user is not defined',
+  stack: 'ReferenceError: user is not defined\n' +
+    '    at doLogin (/home/yatesh/NodeJS/BoilerPlate/controllers/user.js:16:5)\n' +
+    '    at /home/yatesh/NodeJS/BoilerPlate/routes/user.js:21:31\n' +
+    '    at Layer.handle [as handle_request] (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/route.js:144:13)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 16:20:57'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 16:24:17'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 16:24:24'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 16:50:18'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 16:50:41'
+}
+{
+  message: 'route > login',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 16:50:47'
+}
+{
+  message: 'controller > doLogin',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 16:50:47'
+}
+{
+  level: 'error',
+  timestamp: 'Feb-22-2023 16:50:47',
+  message: 'user is not defined',
+  stack: 'ReferenceError: user is not defined\n' +
+    '    at User.doLogin (/home/yatesh/NodeJS/BoilerPlate/controllers/User.ts:24:7)\n' +
+    '    at /home/yatesh/NodeJS/BoilerPlate/routes/user.js:23:36\n' +
+    '    at Layer.handle [as handle_request] (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/route.js:144:13)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 16:52:38'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 16:52:49'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 16:53:03'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 16:54:29'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 16:54:30'
+}
+{
+  message: 'Web Server Listening on 3000 port',
+  level: 'info',
+  timestamp: 'Feb-22-2023 16:54:37'
+}
+{
+  message: 'route > login',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 16:54:41'
+}
+{
+  message: 'controller > doLogin',
+  level: 'debug',
+  timestamp: 'Feb-22-2023 16:54:41'
+}
+{
+  level: 'error',
+  timestamp: 'Feb-22-2023 16:54:41',
+  message: 'user is not defined',
+  stack: 'ReferenceError: user is not defined\n' +
+    '    at User.doLogin (/home/yatesh/NodeJS/BoilerPlate/controllers/user.js:24:7)\n' +
+    '    at /home/yatesh/NodeJS/BoilerPlate/routes/user.js:23:36\n' +
+    '    at Layer.handle [as handle_request] (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/home/yatesh/NodeJS/BoilerPlate/node_modules/express/lib/router/route.js:144:13)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)'
+}
